@@ -75,6 +75,11 @@ nav ul li a:hover{
     border-radius: 5px;
 }
 
+.aboutme a:hover{
+    color: orangered;
+
+}
+
 .image{
     width: 45%;
     height: 80%;
